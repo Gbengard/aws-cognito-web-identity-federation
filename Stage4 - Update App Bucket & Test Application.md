@@ -49,7 +49,7 @@ Welcome to the advanced demo series, where you will implement a sophisticated se
 
 After signing in, you should see three cat pictures loaded from a private S3 bucket. Observe the presigned URLs used for each image.
 	
-	![Untitled](/images/Untitled12.png)
+![Untitled](/images/Untitled12.png)
 
 ## Caching Issue
 
