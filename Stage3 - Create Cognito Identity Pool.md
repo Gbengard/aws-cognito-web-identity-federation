@@ -50,7 +50,7 @@ Follow these steps to create a Cognito Identity Pool for your application:
 - Cognito Identity Pool established
 - IAM Roles for the Identity Pool
 
-This advanced demo comprises five stages:
+In Stage 4, you will proceed to create App Bucket Update and Application Testing.
 
 - [**STAGE 1: Environment Provisioning and Task Review**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage1%20-%20Environment%20Provisioning%20and%20Task%20Review.md)
 - [**STAGE 2: Google API Project and Client ID Creation**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage2%20-%20Create%20Google%20API%20Project%20%26%20Client%20ID.md)
