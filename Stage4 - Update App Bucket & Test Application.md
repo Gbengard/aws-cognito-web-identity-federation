@@ -77,10 +77,10 @@ Congratulations! You now have a fully functional, simple serverless application,
 - IAM Roles for the Identity Pool
 - HTML and JS configured to interact with Google IDP and Cognito
 
-This advanced demo comprises 5 stages:
+In Stage 5, you will proceed to cleanup the resources created.
 
-- **STAGE 1:** Provision the environment and review tasks
-- **STAGE 2:** Create Google API Project & Client ID
-- **STAGE 3:** Create Cognito Identity Pool
-- **STAGE 4:** Update App Bucket & Test Application (Current Stage)
-- **STAGE 5:** Cleanup the account
+- [**STAGE 1: Environment Provisioning and Task Review**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage1%20-%20Environment%20Provisioning%20and%20Task%20Review.md)
+- [**STAGE 2: Google API Project and Client ID Creation**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage2%20-%20Create%20Google%20API%20Project%20%26%20Client%20ID.md)
+- [**STAGE 3: Cognito Identity Pool Establishment**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage3%20-%20Create%20Cognito%20Identity%20Pool.md)
+- [**STAGE 4: App Bucket Update and Application Testing**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage4%20-%20Update%20App%20Bucket%20%26%20Test%20Application.md) (Current Stage)
+- [**STAGE 5: Account Cleanup**](https://github.com/Gbengard/aws-cognito-web-identity-federation/blob/main/Stage5%20-%20Cleanup%20the%20account.md)
