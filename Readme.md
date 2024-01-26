@@ -1,5 +1,7 @@
 # Advanced Demo - Web Identity Federation
 
+![Untitled](/images/Cognito.png)
+
 Explore the intricacies of Web Identity Federation through this comprehensive demo series, where you will construct a sophisticated serverless application. This application leverages various technologies to deliver a seamless user experience:
 
 - **S3** for front-end application hosting
